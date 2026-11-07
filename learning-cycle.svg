@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 420" role="img" aria-labelledby="title desc">
+  <title id="title">دورة التعلّم النشط</title><desc id="desc">أربع خطوات مترابطة: استكشف، دوّن، طبّق، راجع.</desc>
+  <rect width="900" height="420" rx="28" fill="#F5F7F2"/>
+  <path d="M665 205c-12-67-66-110-133-110M235 205c12-67 66-110 133-110M665 215c-12 67-66 110-133 110M235 215c12 67 66 110 133 110" fill="none" stroke="#CADDD4" stroke-width="4" stroke-dasharray="8 10"/>
+  <g font-family="Tahoma,Arial,sans-serif" text-anchor="middle">
+    <g><circle cx="235" cy="205" r="78" fill="#E1F0EB"/><circle cx="235" cy="205" r="58" fill="#fff"/><text x="235" y="198" font-size="36" fill="#0F766E">⌕</text><text x="235" y="232" font-size="20" font-weight="700" fill="#183B3A">استكشف</text></g>
+    <g><circle cx="435" cy="95" r="78" fill="#FCEED8"/><circle cx="435" cy="95" r="58" fill="#fff"/><text x="435" y="88" font-size="32" fill="#D18D2E">✎</text><text x="435" y="122" font-size="20" font-weight="700" fill="#544124">دوّن</text></g>
+    <g><circle cx="665" cy="205" r="78" fill="#E8E8F6"/><circle cx="665" cy="205" r="58" fill="#fff"/><text x="665" y="198" font-size="32" fill="#6865A5">↗</text><text x="665" y="232" font-size="20" font-weight="700" fill="#383754">طبّق</text></g>
+    <g><circle cx="435" cy="325" r="78" fill="#F8E6E3"/><circle cx="435" cy="325" r="58" fill="#fff"/><text x="435" y="318" font-size="32" fill="#C66D61">↺</text><text x="435" y="352" font-size="20" font-weight="700" fill="#56332E">راجع</text></g>
+  </g>
+  <text x="450" y="205" text-anchor="middle" font-family="Tahoma,Arial,sans-serif" font-size="17" font-weight="700" fill="#59706A">تعلّم مستمر</text>
+</svg>
